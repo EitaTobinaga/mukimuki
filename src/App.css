@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.gazou{
+  width:600px;
+  height: 600px;
+  position: relative;
+}
+.gazou img{
+  width:100%;
+}
+.gazoumoji{
+  position: absolute;
+  top:0;
+  left:0;
+  font-size:30px;
+  color: red;
+  padding:0;
+  margin:0;
+}
